@@ -1,0 +1,31 @@
+# 1. Virtual Environments
+# Ignore the virtual environment directory.
+/.venv/
+/venv/
+/env/
+
+# 2. Python Cache
+# Ignore compiled Python files and cache folders.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. OS & Editor Files
+# Ignore common OS-specific and editor-specific files.
+.DS_Store
+Thumbs.db
+/.vscode/
+/.idea/
+*.swp
+*.swoop
+
+# 4. Build & Distribution
+# Ignore folders for when you package your project.
+/dist/
+/build/
+/*.egg-info/
+
+# 5. Log Files
+# Ignore any log files that might be generated.
+*.log
