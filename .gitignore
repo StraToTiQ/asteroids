@@ -29,3 +29,4 @@ Thumbs.db
 # 5. Log Files
 # Ignore any log files that might be generated.
 *.log
+game_state.jsonl
